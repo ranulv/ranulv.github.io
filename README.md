@@ -7,14 +7,14 @@ Ranul says Hi! 👋
 I am a Final Year Undergraduate studying Mechnical Engineering with a passion for Robotics, Human Computer Interaction, Autonomous Systems, Computer Vision and Artificial Intelligence.
 
 * 🌍  I'm based in Galle, Sri Lanka
-* 🖥️  See my portfolio at [Ranul Vithanage Portfolio](http://ranul-vithanage.art)
+* 🖥️  See my portfolio at [Ranul Vithanage Portfolio](http://ranulv.github.io)
 * ✉️  You can contact me at [vithanagetvrh.19@uom.lk](mailto:vithanagetvrh.19@uom.lk)
 * 🚀  I'm currently working on [Multifunctional Robotic Walker](http://https://raphaelattias.com/posts/2021/12/nec/)
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ranul-vithanage.art/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ranul-vithanage.art/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://ranulv.github.io/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://ranulv.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/ranul-vithanage#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/ranul-vithanage#gh-dark-mode-only)
@@ -33,7 +33,7 @@ I am a Final Year Undergraduate studying Mechnical Engineering with a passion fo
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github]
 
 
-[website]: https://ranul-vithanage.art/
+[website]: https://ranulv.github.io/
 [github]: https://github.com/ranulv/
 [linkedin]: https://linkedin.com/in/ranul-vithanage
 
