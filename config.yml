@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "https://ranul-vithanage.art/" 
+title: Ranul Vithanage
 paginate: 20
 theme: PaperMod
 
@@ -28,7 +28,7 @@ menu:
           weight: 5
 
 params:
-    description: "Pascal Michaillat is an Associate Professor of Economics at UC Santa Cruz. His research covers unemployment, business cycles, and macroeconomic policy."
+    description: "I am final-year undergraduate studying Mechanical Engineering at the Univeristy of Moratuwa, Sri Lanka. I am passionate about Robotics, Human Cimputer Interaction, Computer Vision, Autonomous Systems and Artficial Intelligence."
     author: Pascal Michaillat
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
