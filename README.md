@@ -37,7 +37,8 @@ I am a Final Year Undergraduate studying Mechnical Engineering with a passion fo
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/raphaelattias/adahessian" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelattias&repo=adahessian&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/raphaelattias/pneumonia-diagnosis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelattias&repo=pneumonia-diagnosis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br />
+
+
 
 ## License
 
