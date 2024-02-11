@@ -43,4 +43,4 @@ I am a Final Year Undergraduate studying Mechnical Engineering with a passion fo
 
 #### License
 
-Except where otherwise noted, the website's content was created by Pascal Michaillat and is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+Except where otherwise noted, the website's content was created by [Pascal Michaillat](https://pascalmichaillat.org/d5/) and is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
