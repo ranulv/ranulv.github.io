@@ -54,7 +54,7 @@ params:
           enabled: true
           title: Ranul Vithanage
           subtitle: "I am final-year undergraduate studying Mechanical Engineering at the Univeristy of Moratuwa, Sri Lanka. I am passionate about Robotics, Human Cimputer Interaction, Computer Vision, Autonomous Systems and Artficial Intelligence."
-          imageUrl: "/picture.jpeg"
+          imageUrl: "/Ranul.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Ranul Vithanage
