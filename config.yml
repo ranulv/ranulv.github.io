@@ -29,8 +29,8 @@ menu:
 
 params:
     description: "I am final-year undergraduate studying Mechanical Engineering at the Univeristy of Moratuwa, Sri Lanka. I am passionate about Robotics, Human Cimputer Interaction, Computer Vision, Autonomous Systems and Artficial Intelligence."
-    author: Pascal Michaillat
-    googleAnalyticsID: "G-97G4MZ4061"
+    author: Ranul Vithanage
+    googleAnalyticsID:
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
@@ -52,12 +52,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I'm an Associate Professor of Economics at the University of California, Santa Cruz. I research why economic slack—especially unemployment—exists; why it fluctuates over the business cycle; and how macroeconomic policies should respond to such cyclical fluctuations."
+          title: Ranul Vithanage
+          subtitle: "I am final-year undergraduate studying Mechanical Engineering at the Univeristy of Moratuwa, Sri Lanka. I am passionate about Robotics, Human Cimputer Interaction, Computer Vision, Autonomous Systems and Artficial Intelligence."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Pascal Michaillat
+          imageTitle: Ranul Vithanage
           buttons:
             - name: Papers
               url: /papers/
