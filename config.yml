@@ -14,6 +14,9 @@ menu:
         - name: Projects
           url: /projects/
           weight: 1
+          - name: Projects2
+          url: /projects2/
+          weight: 2
 
 params:
     description: "I am final-year undergraduate studying Mechanical Engineering at the Univeristy of Moratuwa, Sri Lanka. I am passionate about Robotics, Human Computer Interaction, Computer Vision, Autonomous Systems and Artificial Intelligence."
