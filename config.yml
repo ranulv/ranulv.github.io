@@ -9,7 +9,6 @@ enableRobotsTXT: true
 taxonomies:
     tag: tags
 
-
 menu:
     main:
         - name: Projects
