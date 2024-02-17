@@ -14,7 +14,7 @@ menu:
         - name: Projects
           url: /projects/
           weight: 1
-          - name: Projects2
+        - name: Projects2
           url: /projects2/
           weight: 2
 
