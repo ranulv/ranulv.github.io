@@ -1,5 +1,5 @@
 ---
 title: "Tags"
-description: "Topics and methods in Pascal Michaillat's research papers and courses."
+description: "Topics and methods in Ranul Vithanage's projects and research papers."
 layout: "terms"
 ---
