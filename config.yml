@@ -55,14 +55,6 @@ params:
           url: /cv.pdf
         - name: Email
           url: mailto:vithanagetvrh.19@uom.lk
-        - name: Location
-          url: /location/
-        - name: Office Hours
-          url: /officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: 
         - name: GitHub
           url: https://github.com/ranulv
 
