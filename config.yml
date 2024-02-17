@@ -14,20 +14,7 @@ menu:
         - name: Projects
           url: /projects/
           weight: 1
-{::comment}
-        - name: Courses
-          url: /courses/
-          weight: 2
-        - name: Design
-          url: /design/
-          weight: 3        
-        - name: Book
-          url: /b1/
-          weight: 4
-        - name: Newsletter
-          url:
-          weight: 5
-{:/comment}
+
 params:
     description: "I am final-year undergraduate studying Mechanical Engineering at the Univeristy of Moratuwa, Sri Lanka. I am passionate about Robotics, Human Computer Interaction, Computer Vision, Autonomous Systems and Artificial Intelligence."
     author: Ranul Vithanage
@@ -62,20 +49,7 @@ params:
           buttons:
             - name: Projects
               url: /projects/
-{::comment}
-            - name: Courses
-              url: /courses/
-            - name: Design
-              url: /design/
-            - name: Book
-              url: /b1/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: /tags/
-            - name: Archive
-              url: /archive/
-{:/comment}
+
     socialIcons:
         - name: CV
           url: /cv.pdf
