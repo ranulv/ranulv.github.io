@@ -11,9 +11,10 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: /papers/
+        - name: Projects
+          url: /projects/
           weight: 1
+{::comment}
         - name: Courses
           url: /courses/
           weight: 2
@@ -26,7 +27,7 @@ menu:
         - name: Newsletter
           url:
           weight: 5
-
+{:/comment}
 params:
     description: "I am final-year undergraduate studying Mechanical Engineering at the Univeristy of Moratuwa, Sri Lanka. I am passionate about Robotics, Human Computer Interaction, Computer Vision, Autonomous Systems and Artificial Intelligence."
     author: Ranul Vithanage
