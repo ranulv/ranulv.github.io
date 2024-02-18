@@ -4,6 +4,21 @@
             "language": "markdown",
             "scheme": "vscode-vfs",
             "pattern": "content/projects/1.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "vscode-vfs",
+            "pattern": "content/projects/2.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "vscode-vfs",
+            "pattern": "content/projects/3.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "vscode-vfs",
+            "pattern": "content/projects/4.md"
         }
     ]
 }
