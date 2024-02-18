@@ -1,0 +1,9 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "vscode-vfs",
+            "pattern": "content/projects/1.md"
+        }
+    ]
+}
