@@ -19,6 +19,21 @@
             "language": "markdown",
             "scheme": "vscode-vfs",
             "pattern": "content/projects/4.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "vscode-vfs",
+            "pattern": "content/publications/101.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "vscode-vfs",
+            "pattern": "content/publications/102.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "vscode-vfs",
+            "pattern": "content/publications/104.md"
         }
     ]
 }
