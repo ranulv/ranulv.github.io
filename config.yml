@@ -57,7 +57,7 @@ params:
           imageTitle: Ranul Vithanage
           buttons:
             - name: Design
-              url: /Design/          
+              url: /design/          
             - name: Projects
               url: /projects/
             - name: Modules
