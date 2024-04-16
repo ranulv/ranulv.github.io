@@ -11,15 +11,18 @@ taxonomies:
 
 menu:
     main:
+        - name: Design
+          url: /design/
+          weight: 1    
         - name: Projects
           url: /projects/
-          weight: 1
+          weight: 2
         - name: Modules
           url: /modules/
-          weight: 2
+          weight: 3
         - name: Publications
           url: /publications/
-          weight: 3
+          weight: 4
 
 params:
     description: "I am final-year undergraduate studying Mechanical Engineering at the Univeristy of Moratuwa, Sri Lanka. I am passionate about Robotics, Human Computer Interaction, Computer Vision, Autonomous Systems and Artificial Intelligence."
@@ -53,6 +56,8 @@ params:
           imageHeight: 160
           imageTitle: Ranul Vithanage
           buttons:
+            - name: Design
+              url: /Design/          
             - name: Projects
               url: /projects/
             - name: Modules
