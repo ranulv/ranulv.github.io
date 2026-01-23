@@ -79,7 +79,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Ranul Vithanage"
+      text: "Ranul-Vithanage"
       icon: /favicon.ico
       iconHeight: 18
 
