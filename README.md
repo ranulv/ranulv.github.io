@@ -1,15 +1,11 @@
 Ranul says Hi! 👋 
 ===============================
 
-### Mechanical Engineering Student - University of Moratuwa
------------------------------------------------------------
+I am a passionate doctoral researcher with a focus on Human-Robot Interaction (HRI), Child-Robot Interaction (CRI), and Socially Assistive Robotics. My work centers on enhancing the synergy between humans and robots, aiming to create systems that can intuitively understand and respond to human needs and emotions.
 
-I am a Final Year Undergraduate studying Mechnical Engineering with a passion for Robotics, Human Computer Interaction, Autonomous Systems, Computer Vision and Artificial Intelligence.
-
-* 🌍  I'm based in Galle, Sri Lanka
+* 🌍  I'm based in PAIR Lab, Imperial College London, UK.
 * 🖥️  See my portfolio at [Ranul Vithanage Portfolio](http://ranulv.github.io)
 * ✉️  You can contact me at [vithanagetvrh.19@uom.lk](mailto:vithanagetvrh.19@uom.lk)
-* 🚀  I'm currently working on [Multifunctional Robotic Walker](http://ranulv.github.io)
 
 ### Connect with me:
 
@@ -28,9 +24,6 @@ I am a Final Year Undergraduate studying Mechnical Engineering with a passion fo
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matlab/matlab-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github]
 
 
 [website]: https://ranulv.github.io/
