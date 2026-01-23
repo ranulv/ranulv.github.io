@@ -1,16 +1,18 @@
 Ranul says Hi! 👋 
 ===============================
 
+### Doctoral Student - Imperial College London
+-----------------------------------------------------------
+
 I am a passionate doctoral researcher with a focus on Human-Robot Interaction (HRI), Child-Robot Interaction (CRI), and Socially Assistive Robotics. My work centers on enhancing the synergy between humans and robots, aiming to create systems that can intuitively understand and respond to human needs and emotions.
 
-* 🌍  I'm based in PAIR Lab, Imperial College London, UK.
-* 🖥️  See my portfolio at [Ranul Vithanage Portfolio](http://ranulv.github.io)
-* ✉️  You can contact me at [vithanagetvrh.19@uom.lk](mailto:vithanagetvrh.19@uom.lk)
+* 🌍  I'm based at the PAIR Lab, Imperial College London, UK, supervised by Dr. Nicole Salomons.
+* ✉️  You can contact me at [r.thalahitiya-vithanage25@imperial.ac.uk](mailto:r.thalahitiya-vithanage25@imperial.ac.uk)
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ranulv.github.io/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ranulv.github.io/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://ranul-vithanage.art/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://ranul-vithanage.art/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/ranul-vithanage#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/ranul-vithanage#gh-dark-mode-only)
@@ -25,15 +27,7 @@ I am a passionate doctoral researcher with a focus on Human-Robot Interaction (H
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matlab/matlab-original.svg" style="padding-right:10px;" />][github]
 
-
 [website]: https://ranulv.github.io/
 [github]: https://github.com/ranulv/
 [linkedin]: https://linkedin.com/in/ranul-vithanage
 
-<br />
-<br />
-<br />
-
-#### License
-
-Except where otherwise noted, the website's content was created by [Pascal Michaillat](https://pascalmichaillat.org/d5/) and is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
