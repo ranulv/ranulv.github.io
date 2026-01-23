@@ -52,7 +52,7 @@ params:
           imageUrl: "/Ranul.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Ranul Vithanage
+          imageTitle: Ranul-Vithanage
           buttons:
             - name: Publications
               url: /publications/        
