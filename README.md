@@ -31,3 +31,13 @@ I am a passionate doctoral researcher with a focus on Human-Robot Interaction (H
 [github]: https://github.com/ranulv/
 [linkedin]: https://linkedin.com/in/ranul-vithanage
 
+
+## Website template credits
+
+This website adapts [Pascal Michaillat's website template](https://github.com/pmichaillat/pmichaillat.github.io/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see [LICENSE.md](LICENSE.md)). The content, identity, navigation, and assets have been adapted for Ranul Vithanage. The original author's research and teaching materials have been removed.
+
+The site uses Hugo and the [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod/), whose [MIT license and copyright notices](themes/PaperMod/LICENSE.md) are retained.
+
+## Build
+
+Run `hugo --minify --cleanDestinationDir` to rebuild `public/` and remove obsolete generated files. GitHub Pages builds the site through `.github/workflows/hugo.yml`.

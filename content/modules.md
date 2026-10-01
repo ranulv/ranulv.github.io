@@ -1,7 +1,5 @@
 ---
 title: "Course Modules"
-aliases:
-    - /oh.html
 hidemeta: true
 description: "Course Modules completed under Bachelors Degree."
 ---
