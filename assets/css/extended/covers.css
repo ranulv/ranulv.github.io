@@ -1,0 +1,38 @@
+/* Show complete research photos and diagrams without cropping their content. */
+.post-entry .entry-cover img {
+    max-height: 320px;
+    object-fit: contain;
+    background: var(--entry);
+}
+.post-single .entry-cover img {
+    max-height: 520px;
+    object-fit: contain;
+}
+.entry-cover figcaption {
+    margin-top: 10px;
+    padding: 0 2px;
+    color: var(--secondary);
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.6;
+    text-align: left;
+}
+
+/* Titles stay above the photo and text at every viewport width. */
+.entry-body { margin-top: 18px; }
+.entry-text, .article-text { min-width: 0; }
+.entry-body .entry-content { margin: 0 0 16px; }
+.article-text .post-content > :first-child { margin-top: 0; }
+
+@media (min-width: 900px) {
+    .entry-body-with-image,
+    .article-body-with-image {
+        display: grid;
+        grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.4fr);
+        align-items: start;
+        gap: 28px;
+    }
+    .entry-body-with-image .entry-cover,
+    .article-body-with-image .entry-cover { margin-bottom: 0; }
+    .entry-body-with-image .entry-content { display: block; overflow: visible; }
+}

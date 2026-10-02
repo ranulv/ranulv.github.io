@@ -52,3 +52,38 @@ Use a short, descriptive title in lowercase with hyphens for each paper:
 - PDF link in Markdown: `[Full Paper](/papers/<paper-name>.pdf)`
 
 Keep page aliases when changing existing page URLs. The former numbered paper pages redirect to their descriptive URLs; the numbered PDF files have been renamed, so update any externally shared PDF links.
+
+## Adding photos
+
+Put images in `static/images/` (create the folder as needed). In a project or publication Markdown file, add or update its existing `cover` block in the front matter:
+
+```yaml
+cover:
+    image: "/images/my-project.jpg"
+    alt: "A short description of what the photo shows"
+    caption: "Description shown beneath the image"
+    relative: false
+```
+
+The cover appears on the Projects or Publications listing and at the top of its detail page. For additional photos within the page, use `![Description](/images/another-photo.jpg)` in the Markdown body. Avoid inserting the cover again in the body.
+
+The homepage portrait is controlled by `params.profileMode.imageUrl` in `config.yml`.
+
+## Publication resource buttons
+
+Publication detail pages render buttons from `resources` in the front matter. Keep the abstract in the Markdown body and put the venue/status in `publicationNote`:
+
+```yaml
+publicationNote: "Conference Paper — Conference Name, Year"
+resources:
+  - label: "Read paper"
+    url: "/papers/my-paper.pdf"
+    kind: pdf
+  - label: "Publisher page"
+    url: "https://doi.org/YOUR-DOI"
+    kind: publisher
+```
+
+Omit any resource that is not available. These links appear beneath the title, before the cover photo and abstract.
+
+Cover captions appear beneath photos on detail pages only; listing cards hide captions. Set `cover.caption` to edit the visible description; if omitted, `cover.alt` is shown instead. Keep `alt` descriptive for screen readers.

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>RV — Ranul Vithanage</title>
+  <rect width="64" height="64" rx="13" fill="#514080"/>
+  <polygon points="8,18 22,18 28,24 28,30 23,35 30,46 22,46 16,36 15,36 15,46 8,46" fill="white"/>
+  <polygon points="15,24 20,24 22,26 22,28 20,30 15,30" fill="#514080"/>
+  <polygon points="30,18 38,18 43,36 49,18 57,18 47,46 39,46" fill="white"/>
+</svg>

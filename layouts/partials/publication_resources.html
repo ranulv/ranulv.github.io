@@ -1,0 +1,20 @@
+{{- if or .Params.publicationNote .Params.resources }}
+<section class="publication-resources" aria-label="Publication details and resources">
+  {{ with .Params.publicationNote }}<p class="publication-venue">{{ . }}</p>{{ end }}
+  {{ with .Params.resources }}
+  <nav class="publication-actions" aria-label="Paper resources">
+    {{ range . }}
+    <a class="publication-action{{ if eq .kind "pdf" }} publication-action-primary{{ end }}" href="{{ .url | relURL }}">
+      {{ if eq .kind "pdf" }}
+      <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h5"/></svg>
+      {{ else }}
+      <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M10 14 21 3M21 14v5a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5"/></svg>
+      {{ end }}
+      <span>{{ .label }}</span>
+      {{ if eq .kind "pdf" }}<span class="publication-action-format">PDF</span>{{ end }}
+    </a>
+    {{ end }}
+  </nav>
+  {{ end }}
+</section>
+{{- end }}

@@ -11,17 +11,17 @@ taxonomies:
 
 menu:
     main:
+        - name: CV
+          url: /cv.pdf
+          weight: 1
         - name: Publications
           url: /publications/
-          weight: 1   
-        - name: Projects
-          url: /projects/
           weight: 2
         - name: Experience
           url: /experience/
           weight: 3
-        - name: CV
-          url: /cv.pdf
+        - name: Projects
+          url: /projects/
           weight: 4
 
 
@@ -57,14 +57,14 @@ params:
           imageHeight: 160
           imageTitle: Ranul Vithanage
           buttons:
-            - name: Publications
-              url: /publications/        
-            - name: Projects
-              url: /projects/
-            - name: Experience
-              url: /experience/
             - name: CV
               url: /cv.pdf
+            - name: Publications
+              url: /publications/
+            - name: Experience
+              url: /experience/
+            - name: Projects
+              url: /projects/
 
 
     socialIcons:
@@ -78,14 +78,15 @@ params:
           url: https://www.linkedin.com/in/ranul-vithanage/
 
     assets:
+        favicon: /favicon.svg
         disableHLJS: true
         disableScrollBarStyle: true
     cover:
-        hiddenInList: true
-        hiddenInSingle: true
+        hiddenInList: false
+        hiddenInSingle: false
     label:
       text: "Ranul Vithanage"
-      icon: /favicon.ico
+      icon: /favicon.svg
       iconHeight: 18
 
 markup:

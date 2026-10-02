@@ -16,8 +16,13 @@
     </div>
     {{- end }}
   </header>
+  {{- if eq .Section "publications" }}
+    {{- partial "publication_resources.html" . }}
+  {{- end }}
   {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
+  <div class="article-body{{ if and .Params.cover.image (not $isHidden) }} article-body-with-image{{ end }}">
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
+  <div class="article-text">
   {{- if (.Param "ShowToc") }}
   {{- partial "toc.html" . }}
   {{- end }}
@@ -29,6 +34,8 @@
     {{- else }}{{ .Content }}{{ end }}
   </div>
   {{- end }}
+  </div>
+  </div>
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}

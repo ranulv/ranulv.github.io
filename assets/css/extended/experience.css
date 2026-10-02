@@ -3,9 +3,6 @@
 .experience-eyebrow { color: var(--darkpurple); font-size: 13px; font-weight: 500; letter-spacing: .06em; }
 .experience-intro h1 { font-size: clamp(34px, 6vw, 46px); margin: 10px 0 18px; line-height: 1.15; }
 .experience-intro > p:not(.experience-eyebrow) { color: var(--secondary); font-size: 18px; line-height: 1.7; max-width: 620px; }
-.experience-cv { display: inline-flex; align-items: center; gap: 12px; padding: 10px 16px; margin-top: 24px; background: var(--entry); border: 1px solid var(--darkpurple); border-radius: var(--radius); font-size: 15px; }
-.experience-cv:hover { background: var(--lightpurple); }
-.experience-format { font-size: 11px; color: var(--secondary); }
 .experience-section-title { font-size: 21px; margin-bottom: 26px; }
 .experience-timeline { list-style: none; padding: 0 0 0 26px; margin: 0 0 48px 6px; border-left: 2px solid var(--border); }
 .experience-role { position: relative; padding: 0 0 34px; }
@@ -27,13 +24,11 @@
 .experience-education { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 46px; }
 .experience-card { background: var(--entry); border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; }
 .experience-focus { color: var(--darkpurple); margin-bottom: 14px; font-size: 14px; }
-.experience-service { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; border-top: 1px solid var(--border); padding-top: 24px; }
-.experience-service p { color: var(--secondary); font-size: 15px; line-height: 1.7; }
-.experience-cv:focus-visible, .experience-courses summary:focus-visible { outline: 2px solid var(--darkpurple); outline-offset: 4px; }
+.experience-courses summary:focus-visible { outline: 2px solid var(--darkpurple); outline-offset: 4px; }
 @media (max-width: 600px) {
+  .experience-education { grid-template-columns: 1fr; }
   .experience-page { padding-top: 18px; }
   .experience-intro { margin-bottom: 38px; }
-  .experience-education, .experience-service { grid-template-columns: 1fr; }
   .experience-courses ul { columns: 1; }
   .experience-timeline { padding-left: 20px; }
   .experience-role::before { left: -27px; }

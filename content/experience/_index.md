@@ -1,7 +1,7 @@
 ---
 title: "Experience"
-description: "Ranul Vithanage's academic experience, education, and service in robotics and computing."
-intro: "From hands-on engineering education to human–robot interaction, my work brings together teaching, robotics, and an interest in how people learn."
+description: "Academic experience, education, and work in robotics and computing."
+intro: "I am currently a Graduate Teaching Assistant at Imperial College London, supporting courses in robotics, artificial intelligence, and the mathematical foundations of computing."
 roles:
   - title: Graduate Teaching Assistant
     institution: Imperial College London
@@ -28,31 +28,10 @@ roles:
     highlights:
       - Delivered tutorials and practical sessions, and evaluated final examinations.
       - Assessed undergraduate vivas, presentations, assignments, and reports.
-  - title: Temporary Instructor
-    institution: University of Moratuwa
-    department: Department of Mechanical Engineering
-    location: Moratuwa, Sri Lanka
-    dates: July 2024 – January 2025
-    summary: "Led practical laboratory sessions in Mechanics, Mechanics of Materials, and Manufacturing Processes."
-    highlights:
-      - Introduced students to MATLAB, COMSOL, and SOLIDWORKS.
-      - Evaluated undergraduate vivas, presentations, assignments, and reports.
-  - title: Visiting Instructor
-    institution: University of Moratuwa
-    department: Department of Mechanical Engineering
-    location: Moratuwa, Sri Lanka
-    dates: April 2024 – June 2024
-    summary: "Delivered practical sessions in Fundamentals of Mechatronics."
-    highlights:
-      - Facilitated robotics workshops on Raspberry Pi, Arduino, and image processing principles and tools.
 education:
   - degree: PhD in Computing
     focus: Human-Robot Interaction
     institution: Imperial College London
     dates: 2025 – 2029 (expected)
     details: Personal, Assistive, and Intelligent Robotics (PAIR) Lab
-  - degree: BSc Eng (Hons) in Mechanical Engineering
-    institution: University of Moratuwa
-    dates: 2020 – 2024
-    details: "First Class · GPA 3.77/4.20 · Dean’s List: semesters 1, 2, 7, and 8"
 ---
