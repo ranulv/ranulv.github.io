@@ -19,8 +19,6 @@ cover:
 
 + [Full Paper](/papers/smart-music-therapist.pdf)
 
-+ [Paper Acceptance Notification](/RO-MAN_acceptance.pdf)
-
 ---
 
 ##### Abstract
