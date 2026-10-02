@@ -18,7 +18,8 @@
 }
 
 .footer span:last-child {
-    white-space: nowrap;
+    white-space: normal;
+    overflow-wrap: anywhere;
 }
 
 .footer a {
