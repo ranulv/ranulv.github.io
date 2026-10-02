@@ -1,6 +1,6 @@
 ---
 title: "Smart Music Therapist 1.0: Rhythmic Auditory Stimulation Integrated Robotic Walker as a Therapeutic Companion for Gait Rehabilitation" 
-date: 2023-11-07
+date: 2023-11-08
 url: /publications/smart-music-therapist/
 aliases: 
     - /101/
