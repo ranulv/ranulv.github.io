@@ -24,10 +24,9 @@ roles:
     department: Department of Mechanical Engineering
     location: Moratuwa, Sri Lanka
     dates: January 2025 – July 2025
-    summary: "Taught Automotive Engineering and Design of Machine Elements, combining lectures with practical teaching and assessment."
+    summary: 
     highlights:
-      - Delivered tutorials and practical sessions, and evaluated final examinations.
-      - Assessed undergraduate vivas, presentations, assignments, and reports.
+      
 education:
   - degree: PhD in Computing
     focus: Human-Robot Interaction
