@@ -1,8 +1,9 @@
 ---
 title: "Smart Music Therapist 1.0: Rhythmic Auditory Stimulation Integrated Robotic Walker as a Therapeutic Companion for Gait Rehabilitation" 
 date: 2023-11-07
-url: /101/
+url: /publications/smart-music-therapist/
 aliases: 
+    - /101/
     - /101.html
 author: "Ranul Vithanage"
 description: "Smart Music Therapist 1.0: Rhythmic Auditory Stimulation Integrated Robotic Walker as a Therapeutic Companion for Gait Rehabilitation" 
@@ -16,7 +17,7 @@ cover:
 
 ##### Conference Paper - Submitted to IEEE International Workshop on Robot and Human Communication (RO-MAN) 2024
 
-+ [Full Paper](/101.pdf)
++ [Full Paper](/papers/smart-music-therapist.pdf)
 
 + [Paper Acceptance Notification](/RO-MAN_acceptance.pdf)
 

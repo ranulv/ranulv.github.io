@@ -1,8 +1,9 @@
 ---
 title: "Intelligent Controller for Active Walking Guidance of a Robotic Walker" 
 date: 2023-11-07
-url: /103/
+url: /publications/active-walking-guidance-robotic-walker/
 aliases: 
+    - /103/
     - /103.html
 author: "Ranul Vithanage"
 description: "Intelligent Controller for Active Walking Guidance of a Robotic Walker" 
@@ -16,7 +17,7 @@ cover:
 
 ##### Conference Paper - Submitted to IEEE/RAS-EMBS International Conference on Rehabilitation Robotics (ICORR) 2025
 
-+ [Paper](/103.pdf)
++ [Paper](/papers/active-walking-guidance-robotic-walker.pdf)
 
 ---
 

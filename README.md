@@ -41,3 +41,14 @@ The site uses Hugo and the [PaperMod theme](https://github.com/adityatelange/hug
 ## Build
 
 Run `hugo --minify --cleanDestinationDir` to rebuild `public/` and remove obsolete generated files. GitHub Pages builds the site through `.github/workflows/hugo.yml`.
+
+## Naming publications
+
+Use a short, descriptive title in lowercase with hyphens for each paper:
+
+- Page source: `content/publications/<paper-name>.md`
+- Page URL: `/publications/<paper-name>/`
+- PDF source: `static/papers/<paper-name>.pdf`
+- PDF link in Markdown: `[Full Paper](/papers/<paper-name>.pdf)`
+
+Keep page aliases when changing existing page URLs. The former numbered paper pages redirect to their descriptive URLs; the numbered PDF files have been renamed, so update any externally shared PDF links.

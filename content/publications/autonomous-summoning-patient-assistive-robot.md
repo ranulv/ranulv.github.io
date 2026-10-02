@@ -1,8 +1,9 @@
 ---
 title: "Robust Autonomous Summoning Capabilities for a Patient Assistive Mobile Robot" 
 date: 2023-11-07
-url: /102/
+url: /publications/autonomous-summoning-patient-assistive-robot/
 aliases: 
+    - /102/
     - /102.html
 author: "Ranul Vithanage"
 description: "Robust Autonomous Summoning Capabilities for a Patient Assistive Mobile Robot" 
@@ -16,7 +17,7 @@ cover:
 
 ##### Conference Paper - Submitted to IEEE International Conference on Advanced Robotics and Mechatronics (ICARM) 2024
 
-+ [Paper](/102.pdf)
++ [Paper](/papers/autonomous-summoning-patient-assistive-robot.pdf)
 
 + [IEEE Xplore](https://ieeexplore.ieee.org/document/10715826)
 

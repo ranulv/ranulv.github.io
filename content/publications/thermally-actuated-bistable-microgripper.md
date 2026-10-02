@@ -1,8 +1,9 @@
 ---
 title: "Design and Simulation of a Thermally Actuated Microgripper with a Compliant Bistable Release Mechanism for Biomanipulation" 
 date: 2023-11-07
-url: /104/
+url: /publications/thermally-actuated-bistable-microgripper/
 aliases: 
+    - /104/
     - /104.html
 author: "Ranul Vithanage"
 description: "Design and Simulation of a Thermally Actuated Microgripper with a Compliant Bistable Release Mechanism for Biomanipulation" 
@@ -16,7 +17,7 @@ cover:
 
 ##### Conference Paper - Presented at Moratuwa Engineering Research Conference (MERCon) 2024
 
-+ [Full Paper](/104.pdf)
++ [Full Paper](/papers/thermally-actuated-bistable-microgripper.pdf)
 
 + [IEEE Xplore](https://ieeexplore.ieee.org/document/10689058)
 
