@@ -20,6 +20,9 @@ menu:
         - name: Experience
           url: /experience/
           weight: 3
+        - name: CV
+          url: /cv.pdf
+          weight: 4
 
 
 params:
@@ -60,6 +63,8 @@ params:
               url: /projects/
             - name: Experience
               url: /experience/
+            - name: CV
+              url: /cv.pdf
 
 
     socialIcons:

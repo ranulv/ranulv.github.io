@@ -1,0 +1,61 @@
+{{ define "main" }}
+<div class="experience-page">
+  <header class="experience-intro">
+    <p class="experience-eyebrow">Teaching · Research · Robotics</p>
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Params.intro }}</p>
+    <a class="experience-cv" href="{{ "cv.pdf" | relURL }}">View full CV <span aria-hidden="true">↗</span><span class="experience-format">PDF</span></a>
+  </header>
+
+  <section aria-labelledby="academic-experience">
+    <h2 id="academic-experience" class="experience-section-title">Academic experience</h2>
+    <ol class="experience-timeline">
+      {{ range .Params.roles }}
+      <li class="experience-role">
+        <div class="experience-date">{{ .dates }}{{ if .current }}<span class="experience-current">Current</span>{{ end }}</div>
+        <h3>{{ .title }}</h3>
+        <p class="experience-institution">{{ .institution }}</p>
+        <p class="experience-meta">{{ .department }} · {{ .location }}</p>
+        <p class="experience-summary">{{ .summary }}</p>
+        {{ with .highlights }}<ul class="experience-highlights">{{ range . }}<li>{{ . }}</li>{{ end }}</ul>{{ end }}
+        {{ with .courses }}
+        <details class="experience-courses">
+          <summary>Teaching modules <span>{{ len . }}</span></summary>
+          <ul>{{ range . }}<li>{{ . }}</li>{{ end }}</ul>
+        </details>
+        {{ end }}
+      </li>
+      {{ end }}
+    </ol>
+  </section>
+
+  <section aria-labelledby="education">
+    <h2 id="education" class="experience-section-title">Education</h2>
+    <div class="experience-education">
+      {{ range .Params.education }}
+      <article class="experience-card">
+        <p class="experience-date">{{ .dates }}</p>
+        <h3>{{ .degree }}</h3>
+        {{ with .focus }}<p class="experience-focus">{{ . }}</p>{{ end }}
+        <p class="experience-institution">{{ .institution }}</p>
+        <p class="experience-meta">{{ .details }}</p>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+
+  <section aria-labelledby="service">
+    <h2 id="service" class="experience-section-title">Service & recognition</h2>
+    <div class="experience-service">
+      <article>
+        <h3>Peer review</h3>
+        <p>Reviewer for the IEEE/ACM International Conference on Human-Robot Interaction (HRI), 2026 and 2027 editions.</p>
+      </article>
+      <article>
+        <h3>RO-MAN student travel grant</h3>
+        <p>USD 2,000 travel grant from the IEEE International Conference on Robot and Human Interactive Communication, August 2024.</p>
+      </article>
+    </div>
+  </section>
+</div>
+{{ end }}
