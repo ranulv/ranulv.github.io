@@ -1,0 +1,18 @@
+/* Let the profile use the space left by the actual header and footer. */
+@media (min-width: 900px) {
+    body.home-profile {
+        display: grid;
+        grid-template-rows: auto 1fr auto;
+        min-height: 100vh;
+        min-height: 100svh;
+    }
+    .home-profile > .main {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        min-height: 0;
+        margin: 0 auto;
+    }
+    .home-profile .main .profile { min-height: 0; width: 100%; }
+    .home-profile > .footer { width: 100%; margin: 0; }
+}

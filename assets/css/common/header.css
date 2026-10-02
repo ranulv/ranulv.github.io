@@ -38,7 +38,11 @@
 
 button#theme-toggle {
     font-size: 20px;
-    margin: auto 4px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 32px;
+    min-height: 44px;
 }
 
 body.dark #moon {
@@ -55,10 +59,14 @@ body:not(.dark) #sun {
     word-break: keep-all;
     overflow-x: auto;
     white-space: nowrap;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0 var(--gap);
+    max-width: calc(100% - var(--gap) * 2);
 }
 
 #menu li + li {
-    margin-inline-start: var(--gap);
+    margin-inline-start: 0;
 }
 
 #menu a {
