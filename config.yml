@@ -23,7 +23,7 @@ menu:
 
 
 params:
-    description: "I am a passionate doctoral researcher with a focus on Human-Robot Interaction (HRI), Child-Robot Interaction (CRI), and Socially Assistive Robotics. My work centers on enhancing the synergy between humans and robots, aiming to create systems that can intuitively understand and respond to human needs and emotions."
+    description: "I’m a doctoral researcher exploring how humans and robots can better understand each other. My work spans Human-Robot Interaction (HRI), Human-Computer Interaction (HCI), and Tutoring Robots. I investigate how tutoring robots can better adapt to human skills, behaviour and emotional states to build smarter, more responsive learning tools that genuinely help people."
     author: Ranul Vithanage
     googleAnalyticsID:
     DateFormat: "January 2006"
@@ -48,7 +48,7 @@ params:
     profileMode:
           enabled: true
           title: Ranul Vithanage
-          subtitle: "I am a passionate doctoral researcher with a focus on Human-Robot Interaction (HRI), Child-Robot Interaction (CRI), and Socially Assistive Robotics. My work centers on enhancing the synergy between humans and robots, aiming to create systems that can intuitively understand and respond to human needs and emotions."
+          subtitle: "I’m a doctoral researcher exploring how humans and robots can better understand each other. My work spans Human-Robot Interaction (HRI), Human-Computer Interaction (HCI), and Tutoring Robots. I investigate how tutoring robots can better adapt to human skills, behaviour and emotional states to build smarter, more responsive learning tools that genuinely help people."
           imageUrl: "/Ranul.jpg"
           imageWidth: 160
           imageHeight: 160
